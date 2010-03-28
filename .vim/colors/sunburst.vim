@@ -68,6 +68,7 @@ hi railsUserClass          guifg=#89bdff
 hi javaScriptType          guifg=#3e87e3
 hi javaScriptOpAssign      guifg=#e28964
 hi javaScriptFuncName      guifg=#3e87e3
+hi javaScriptComment       guifg=#3f3f3f
 hi htmlTag                 guifg=#89bdff
 hi htmlEndTag              guifg=#89bdff
 hi htmlStatement           guifg=#89bdff
