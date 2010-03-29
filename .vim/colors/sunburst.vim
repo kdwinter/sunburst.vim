@@ -38,6 +38,8 @@ hi StatusLineNC guifg=#ffffff guibg=#121212
 hi Cursor       guifg=#000000 guibg=#a7a7a7
 hi CursorLine   guifg=NONE    guibg=#121212
 hi CursorColumn guifg=NONE    guibg=#121212
+hi Pmenu        guifg=#ffffff guibg=#121212
+hi PmenuSel     guifg=#ffffff guibg=#242424
 hi Todo         guifg=#fd5ff1 guibg=#000000 gui=italic,underline
 hi PreProc      guifg=#9b859d
 hi Visual                     guibg=#242424
