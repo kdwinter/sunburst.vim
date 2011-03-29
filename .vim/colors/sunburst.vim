@@ -57,8 +57,8 @@ hi Visual                     guibg=#242424
 hi Visual                     ctermbg=236
 hi VisualNOS                  guibg=#202020
 hi VisualNOS                  ctermbg=235
-hi Comment      guifg=#3f3f3f               gui=italic
-hi Comment      ctermfg=244
+hi Comment      guifg=#6f6f6f               gui=italic
+hi Comment      ctermfg=242
 hi Constant     guifg=#3387cc
 hi Constant     ctermfg=68
 hi Directory    guifg=#3387cc
