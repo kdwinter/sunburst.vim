@@ -8,6 +8,8 @@
 "
 " Best usable with Ruby/HTML/CSS/JavaScript. Feel free to add custom
 " language matchers!
+"
+" Cterm colors courtesy of greezybacon.
 
 hi clear
 if exists('syntax_on')
